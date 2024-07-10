@@ -21,16 +21,16 @@ The Student Enrollment System is a web-based application designed to manage stud
   - Basic authentication and validation mechanisms.
 
 This version marks the initial deployment of the Student Enrollment System using JsonPowerDB. It lays the foundation with essential features for managing student data effectively and securely. Future releases will build upon this version to enhance functionality, performance, and security based on user feedback and evolving requirements.
-
-### HomePage
+### PROJECT IMAGES
+## HomePage
 ![Screenshot 2024-07-10 143832](https://github.com/Prashanth980/Micro-Project-Work/assets/147155314/f7301c2d-8ccd-4ced-847a-c001f9d7efc4)
-### Form Filling
+## Form Filling
 ![Screenshot 2024-07-10 143456](https://github.com/Prashanth980/Micro-Project-Work/assets/147155314/47fb8fa3-31af-4ea0-b75d-3f0997e2a544)
 ![Screenshot 2024-07-10 143724](https://github.com/Prashanth980/Micro-Project-Work/assets/147155314/c96da98e-4b54-439d-9d9d-0315e8da27cd)
-### DataBase
+## DataBase
 ![Screenshot 2024-07-10 143753](https://github.com/Prashanth980/Micro-Project-Work/assets/147155314/f85645e5-9273-4366-885f-4d712e2b55c9)
-### ConnectionToken
+## ConnectionToken
 ![Screenshot 2024-07-10 143922](https://github.com/Prashanth980/Micro-Project-Work/assets/147155314/c8826d1f-6c94-4a63-ba7c-e1a92c6fb2eb)
-### JsonDB HomePage
+## JsonDB HomePage
 ![Screenshot 2024-07-10 143900](https://github.com/Prashanth980/Micro-Project-Work/assets/147155314/0eae2927-5df2-4781-810d-14958e5eab13)
 
