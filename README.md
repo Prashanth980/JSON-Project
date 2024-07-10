@@ -34,3 +34,19 @@ This version marks the initial deployment of the Student Enrollment System using
 ## JsonDB HomePage
 ![Screenshot 2024-07-10 143900](https://github.com/Prashanth980/Micro-Project-Work/assets/147155314/0eae2927-5df2-4781-810d-14958e5eab13)
 
+
+Scope of Functionalities
+
+Features of the Student Enrollment System
+Registration of students with fields: Roll-No, Full-Name, Class, Birth-Date, Address, Enrollment-Date
+CRUD operations for managing student data
+Search and filter functionality for student records
+Integration with JsonPowerDB
+Explanation of why JsonPowerDB was chosen for data storage
+Advantages of using a schema-free database for student information
+Future Enhancements
+Planned features such as reporting, analytics, and automated notifications
+Scalability considerations for handling larger student populations
+
+Sources - https://careers.login2explore.com/mod/page/view.php?id=139
+
